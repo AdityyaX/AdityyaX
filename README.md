@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
  -->
  <h1 align="center">Hey... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Aditya Pachauri </h1>
-<h3 align="center">A Devloper from India 🇮🇳 </h3>
+<h3 align="center">A Developer from India 🇮🇳 </h3>
 
 ## 📈 Stats
 <p align="center">
