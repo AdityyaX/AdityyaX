@@ -1,9 +1,8 @@
-### Hi there ... 👋,I am Aditya Pachauri
-
-
-<!-- **AdityyaX/AdityyaX** is a ✨ special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<!-- 
-Here are some ideas to get you started: -->
+<h2>नमस्ते (Namaste)🙏🏻, I'm Aditya Pachauri ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Full stack developer
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 - 🔭 I’m currently working on e-Chikitsak
 - 🌱 I’m currently learning Node JS
