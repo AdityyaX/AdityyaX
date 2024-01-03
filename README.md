@@ -5,8 +5,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-- 🔭 I’m currently working on e-Chikitsak
--  🌱 I’m currently learning about DevOps
+-  🌱 I’m currently learning DevOps
 
 - 📫 How to reach me: adityapachauri182003@gmail.com
 <!-- - 😄 Pronouns: ...
