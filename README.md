@@ -1,4 +1,4 @@
-<h2>नमस्ते 🙏🏻, I'm Aditya Pachauri ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते 🙏🏻, I'm Adarsh Pathak ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">A Developer from India 🇮🇳 </h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Full stack developer
