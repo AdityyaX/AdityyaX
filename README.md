@@ -100,7 +100,6 @@
 [![Email](https://img.shields.io/badge/Email-adityapachauri182003%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adityapachauri182003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--pachauri-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-pachauri)
 [![GitHub](https://img.shields.io/badge/GitHub-AdityyaX-181717?style=for-the-badge&logo=github)](https://github.com/AdityyaX)
-[![Phone](https://img.shields.io/badge/Call-%2B91--8439917212-black?style=for-the-badge&logo=android)](tel:+918439917212)
 
 ---
 
