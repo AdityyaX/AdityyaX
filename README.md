@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Aditya Pachauri!
 
-<img src="https://github.com/AdityyaX/AdityyaX/blob/main/Aditya%20Pachauri.png?raw=true" alt="Aditya Banner" width="900" height="500">
-
 🚀 Full-Stack Developer | Cloud & DevOps Enthusiast | Open Source Contributor
 
 ---
@@ -88,6 +86,13 @@
 </p>
 
 ---
+## 📈 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/itsadityya" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=itsadityaa&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
+  </a>
+</p>
 
 ## 🧩 Fun Dev Quote
 
